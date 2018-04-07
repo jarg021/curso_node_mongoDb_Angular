@@ -1,0 +1,263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"strong\tTag"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp2/www/curso_node"
+	],
+	"file_history":
+	[
+		"/C/Users/jarg/Documents/Node js/package.json",
+		"/C/Users/jarg/Documents/Node js/myfirstmodule.js",
+		"/C/Users/jarg/Documents/Node js/myfirst.js",
+		"/C/Users/jarg/Documents/Node js/database.js",
+		"/C/Users/jarg/Documents/Curso mooc html/mod_01/01_mi_primera_pagina/10-mi_primera_pagina0.html",
+		"/C/Users/jarg/Documents/Node js/myfirst .js",
+		"/C/Users/jarg/Documents/Curso mooc html/mod_01/01_mi_primera_pagina/10-mi_primera_pagina2.html",
+		"/C/Users/jarg/Documents/Curso mooc html/mod_01/01_mi_primera_pagina/10-valores_defecto.html",
+		"/C/Users/jarg/Desktop/web/www/examen/ValidadorInicio.php",
+		"/C/Users/jarg/Desktop/web/www/examen/AgregarPregunta.php",
+		"/C/Users/jarg/Desktop/web/www/examen/actividad.php",
+		"/C/Users/jarg/Desktop/web/www/examen/alumnosAct.php",
+		"/C/Users/jarg/Desktop/web/www/examen/calificar.php",
+		"/C/Users/jarg/Desktop/web/www/examen/gestionAlumnos.php",
+		"/C/Users/jarg/Desktop/web/www/examen/inicio.php",
+		"/C/Users/jarg/Desktop/web/www/examen/Manejoalumnos.php",
+		"/C/Users/jarg/Desktop/web/www/examen/ManejoPreguntas.php",
+		"/C/Users/jarg/Desktop/web/www/examen/salir.php",
+		"/C/Users/jarg/Desktop/web/www/examen/principal.php",
+		"/C/Users/jarg/Documents/Curso mooc html/mod_01/02_Estructura_HTML/02_div01.html",
+		"/C/Users/jarg/Documents/Curso mooc html/mod_01/02_Estructura_HTML/02_div02.html",
+		"/C/Users/jarg/Documents/Curso mooc html/mod_01/01_mi_primera_pagina/10-mi_primera_pagina_con imagen.html",
+		"/C/Users/jarg/Documents/Curso mooc html/Ejercicio 1/Mi_primera_pagina.html",
+		"/C/Users/jarg/Documents/Curso mooc html/mod_01/02_Estructura_HTML/02_caracteres_especiales.html",
+		"/C/Users/jarg/Documents/Curso mooc html/mod_01/02_Estructura_HTML/02_abbr.html",
+		"/C/Users/jarg/Documents/Curso mooc html/mod_01/02_Estructura_HTML/02_br.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto_curso.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
